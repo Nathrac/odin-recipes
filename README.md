@@ -1,1 +1,2 @@
 # odin-recipes
+My first real project to creating a website while working through the Odin Project. Although I recall building a very poor website back in a New Media class during University, this time I'm actually understanding what I'm looking at and creating. Along with this project, my main goal is to learn how to properly write commit messages using conventional commits. I'm sure they won't be great starting off, but I just hope they'll be better then my terrible commits I made when working on solo projects in the past.
